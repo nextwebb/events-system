@@ -1,6 +1,6 @@
-# Simple GO Lang REST API
+# Simple RESTful API implementation for a pub / sub
 
-> Simple RESTful API implementation for a pub / sub system using HTTP requests
+> Simple RESTful API implementation for a pub / sub system using Nodejs/expressjs 
 
 ## Quick Start
 
